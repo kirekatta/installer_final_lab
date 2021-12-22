@@ -10,7 +10,7 @@
   Написано на языке программирования C++\
   Репозитории для разработки игры:
 - https://github.com/kirekatta/final_lab_op (VS2019)
-- https://github.com/kirekatta/final_lab_op (CMake)
+- https://github.com/kirekatta/cmake_final (CMake)
   ## Инструкция к управлению игрой
   ### Правила просты - не попасть в лапы к врагу. Stay alive and keep playing!
   - P - старт игры
